@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ganeshaampuh
-- 👀 I’m interested in Javascript & Golang
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Frontend (Vue & React) Backend (Node.js)
+- 🌱 I’m currently learning (Node.js)
+- 📫 Get in touch with me ganeshaampuh@gmail.com
 
 <!---
 ganeshaampuh/ganeshaampuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
