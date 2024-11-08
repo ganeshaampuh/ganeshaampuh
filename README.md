@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganeshaampuh
 - 👀 I’m interested in Frontend (Vue & React) Backend (Node.js)
-- 🌱 I’m currently learning (Mobile Development)
+- 🌱 I’m currently learning Mobile Developer (Flutter, Swift)
 - 📫 Get in touch with me ganeshaampuh@gmail.com
 
 <!---
